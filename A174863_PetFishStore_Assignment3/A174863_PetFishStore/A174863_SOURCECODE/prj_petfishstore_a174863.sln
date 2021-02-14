@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prj_petfishstore_a174863", "prj_petfishstore_a174863\prj_petfishstore_a174863.vbproj", "{FE90E2A3-053D-4520-8267-77033AFC72CF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_Prj_PetFishStore_A174863", "Setup_Prj_PetFishStore_A174863\Setup_Prj_PetFishStore_A174863.vdproj", "{B93AC57F-B273-415C-A9EA-AB5802F32DB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE90E2A3-053D-4520-8267-77033AFC72CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE90E2A3-053D-4520-8267-77033AFC72CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE90E2A3-053D-4520-8267-77033AFC72CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE90E2A3-053D-4520-8267-77033AFC72CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B93AC57F-B273-415C-A9EA-AB5802F32DB1}.Debug|Any CPU.ActiveCfg = Debug
+		{B93AC57F-B273-415C-A9EA-AB5802F32DB1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D016658-76AC-44E8-92B6-05B76A1E260A}
+	EndGlobalSection
+EndGlobal
