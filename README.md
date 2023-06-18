@@ -1,6 +1,6 @@
-#Pet Fish Store Inventory System (Desktop App Simple Project)
+#Pet Fish Store Inventory System (Desktop Application Simple Project)
  
-This desktop apps are being developed through Visual Basic .NET and Microsoft Access(as database). The purpose is to fully understand on how to implement the database operations, CRUD, to the GUI level. A desktop application focusing on managing pet fish, fish food and aquarium supplies.
+A pet fish store inventory system for desktop apps are developed through Visual Basic .NET and Microsoft Access(as database). The purpose is to fully understand on how to implement the database operations, CRUD, to the GUI level. A desktop application focusing on managing pet fish, fish food and aquarium supplies.
  
  ## Technologies used
  
